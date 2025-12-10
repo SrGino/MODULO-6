@@ -1,0 +1,9 @@
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jdbc\service\LibroServiceJdbc.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jpa\repository\LibroRepository.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jdbc\model\Libro.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jdbc\dao\LibroDAO.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jpa\entity\AutorEntity.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jpa\service\LibroServiceJpa.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\BibliotecaApplication.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jpa\repository\AutorRepository.java
+G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\src\main\java\com\biblioteca\jpa\entity\LibroEntity.java

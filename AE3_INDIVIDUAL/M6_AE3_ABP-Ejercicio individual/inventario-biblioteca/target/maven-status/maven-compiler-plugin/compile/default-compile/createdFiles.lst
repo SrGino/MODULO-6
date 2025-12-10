@@ -1,0 +1,10 @@
+com\biblioteca\jdbc\dao\LibroDAO$1.class
+com\biblioteca\jdbc\model\Libro.class
+com\biblioteca\jpa\entity\LibroEntity.class
+com\biblioteca\jpa\repository\LibroRepository.class
+com\biblioteca\jdbc\dao\LibroDAO.class
+com\biblioteca\jpa\service\LibroServiceJpa.class
+com\biblioteca\jpa\entity\AutorEntity.class
+com\biblioteca\jpa\repository\AutorRepository.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\jdbc\service\LibroServiceJdbc.class

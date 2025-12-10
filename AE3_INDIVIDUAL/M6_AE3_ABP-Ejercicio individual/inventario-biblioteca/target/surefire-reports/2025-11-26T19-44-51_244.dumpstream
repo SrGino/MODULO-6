@@ -1,0 +1,5 @@
+# Created at 2025-11-26T19:44:51.399
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Mi unidad\Conocimiento\Bootcamp Java Spring Boot\Modulo 6\M6_AE3_ABP-Ejercicio individual\inventario-biblioteca\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
